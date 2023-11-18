@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👨‍💻, I'm Hasitha</h1>
 <h3 align="center">Expecto patronum ⚝</h3>
-<p><img align="right" width="400" src="https://media.tenor.com/b9GFHJUHEUYAAAAd/developer-xmooney.gif"></p>
+<p><img align="right" width="300" src="https://media.tenor.com/b9GFHJUHEUYAAAAd/developer-xmooney.gif"></p>
 
 <h3 align="left">Connect with me:</h3>
 
