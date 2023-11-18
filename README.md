@@ -16,11 +16,11 @@
 
 <hr>
 <div style="clear:both;">
-  <p align="center">
+  <p align="left">
     <!-- Adjust the width or height if needed -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithaperera2002&show_icons=true&locale=en&layout=compact" alt="hasithaperera2002" />
   </p>
-  <p align="center">
+  <p align="left">
     <!-- Adjust the width or height if needed -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasithaperera2002&" alt="hasithaperera2002" />
   </p>
