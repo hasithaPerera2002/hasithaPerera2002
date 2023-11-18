@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👨‍💻, I'm Hasitha</h1>
 <h3 align="center">Expecto patronum ⚝</h3>
-<p><img align="right" width="300" src="https://media.tenor.com/rjEXOjyJWooAAAAi/alien.gif"></p>
+<p><img align="right" width="300" src="https://media.tenor.com/O6T25ctlsk0AAAAi/alien-dance.gif"></p>
 
 <h3 align="left">Connect with me:</h3>
 
