@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hasithaperera2017](https://medium.com/@hasithaperera2017)
 
-- 💬 Ask me about **Js,CSS,Java**
+- 💬 Ask me about **JS,Angular,SpringFramework,Java**
 
 - 📫 How to reach me **hasithaperera2017@gmail.com**
 
