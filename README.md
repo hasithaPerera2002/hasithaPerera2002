@@ -31,4 +31,5 @@
 | :---| :---|
 |GraphQL For Beginers 🕸️ | [🔗](https://medium.com/@hasithaperera2017/springboot-graphql-for-beginners-b9f57a034235) |
 |Css cascades | [🔗](https://medium.com/@hasithaperera2017/pseudo-classes-and-elements-in-css-bae10bba3ec4)|
+|Chat bot with PaLM 2.0| [🔗](https://medium.com/@hasithaperera2017/chat-bot-with-palm-2-0-node-js-ee111ad5e8b7)|
 
