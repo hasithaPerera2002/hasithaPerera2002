@@ -35,11 +35,7 @@
 [![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=toprepositories)](https://myreadme.vercel.app/hasithaPerera2002)
 [![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=commitgraph)](https://myreadme.vercel.app/hasithaPerera2002)
 
-<details>
-  <summary>Half year calendar</summary>
-  <img src="https://github.com/hasithaPerera2002/hasithaPerera2002/metrics.plugin.isocalendar.svg" alt="Half year calendar">
-</details>
-![Half-year calendar](metrics.plugin.isocalendar.svg)
+
 
 ## My Activities
 
