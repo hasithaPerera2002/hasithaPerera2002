@@ -27,6 +27,8 @@
 
 <a href="https://app.daily.dev/hasithaperera"><img src="https://github.com/hasithaPerera2002/hasithaPerera2002/blob/main/devcard.svg" width="400" alt="Hasitha Perera's Dev Card"/></a>
 
+![](https://raw.githubusercontent.com/vn7n24fzkq/hasithaPerera2002/main/hasithaPerera2002/github_dark/1-repos-per-language.svg)
+
 ## My Activities
 
 |Blogs 📖 | Find Here 🔗|
