@@ -31,7 +31,9 @@
 ![](https://raw.githubusercontent.com/vn7n24fzkq/hasithaPerera2002/master/hasithaPerera2002/github_dark/2-most-commit-language.svg)
 
 [![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=toplanguages)](https://myreadme.vercel.app/hasithaPerera2002)
-[![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=toplanguages)](https://myreadme.vercel.app/hasithaPerera2002)
+[![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=userstatistics)](https://myreadme.vercel.app/hasithaPerera2002)
+[![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=toprepositories)](https://myreadme.vercel.app/hasithaPerera2002)
+[![](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=commitgraph)](https://myreadme.vercel.app/hasithaPerera2002)
 
 
 ## My Activities
