@@ -30,6 +30,8 @@
 ![](https://raw.githubusercontent.com/vn7n24fzkq/hasithaPerera2002/master/hasithaPerera2002/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/hasithaPerera2002/master/hasithaPerera2002/github_dark/2-most-commit-language.svg)
 
+[](https://myreadme.vercel.app/api/embed/hasithaPerera2002?panels=toplanguages)
+
 ## My Activities
 
 |Blogs 📖 | Find Here 🔗|
