@@ -39,6 +39,7 @@
   <summary>Half year calendar</summary>
   <img src="https://github.com/hasithaPerera2002/hasithaPerera2002/metrics.plugin.isocalendar.svg" alt="Half year calendar">
 </details>
+![Half-year calendar](metrics.plugin.isocalendar.svg)
 
 ## My Activities
 
