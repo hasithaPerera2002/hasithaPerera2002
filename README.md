@@ -25,6 +25,8 @@
   </p>
 </div>
 
+<a href="https://app.daily.dev/hasithaperera"><img src="https://github.com/hasithaPerera2002/hasithaPerera2002/blob/main/devcard.svg" width="400" alt="Hasitha Perera's Dev Card"/></a>
+
 ## My Activities
 
 |Blogs 📖 | Find Here 🔗|
